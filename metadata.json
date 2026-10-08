@@ -1,0 +1,6 @@
+{
+  "name": "Live Ops Helpdesk",
+  "description": "Real-time ticket locking system with race-condition safe in-memory lock coordination and automatic disconnect cleanup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
